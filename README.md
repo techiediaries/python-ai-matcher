@@ -147,7 +147,7 @@ This is an educational project, and contributions are welcome! Feel free to:
 
 ## 📄 License
 
-This project is for educational and entertainment purposes.
+This project is for educational purposes.
 
 ## 🙏 Credits
 
@@ -157,13 +157,10 @@ This project is for educational and entertainment purposes.
 
 * **OpenCV**: Open source computer vision library
 
-## 🔮 Future Improvements
+* **KristelTech**: Make Me a Meme 
 
-* [ ] Add more memes (target: 10-15)
-* [ ] GUI for meme selection
-* [ ] Save matched screenshots functionality
-* [ ] Expression history/statistics
-* [ ] Multiple face support
-* [ ] Custom meme upload via UI
-* [ ] Performance optimizations
-* [ ] Mobile app version
+You can find a tutorial that explains the process step by step from this tutorial:
+
+[Build Your Own AI Meme Matcher: A Beginner's Guide to Computer Vision with Python](https://10xdev.blog/ai-matcher-python)
+
+
